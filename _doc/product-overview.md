@@ -43,7 +43,9 @@ The first app focuses on the membership ecosystem:
 
 ## Branding & design
 
+- Product name: **Navin**.
 - Brand identity assets prepared; logo and visual guidelines available.
+- Generated app logo: clean, minimal wordmark/mark in clear-blue water tones (droplet/wave motif).
 - Primary palette: **blue tones**, aligned with water and sustainability themes.
 - Tone: clean, modern, optimistic, sustainability-forward.
 
