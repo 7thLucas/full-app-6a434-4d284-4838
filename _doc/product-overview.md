@@ -1,6 +1,6 @@
 # Product Overview — Sustainable Water Brand Community Platform
 
-> Single source of truth for the product. Working name: **TBD** (to be set during onboarding/branding). A community-driven membership platform for a sustainability-focused bottled/drinking water brand.
+> Single source of truth for the product. Product name: **Navin**. A community-driven membership platform for a sustainability-focused bottled/drinking water brand.
 
 ## What it is
 
