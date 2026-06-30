@@ -1,38 +1,58 @@
-Build me a community-driven digital platform and mobile application for a sustainable water brand, including membership management, customer engagement, carbon credit tracking, and future Web3 integration.
-Details:
-1. Business Overview & Vision
-the company's vision of building a sustainability-focused water brand supported by a digital community platform.
-The platform aims to:
-Build and manage a loyal customer community.
-Reward customers for sustainable consumption habits.
-Track water consumption and environmental impact.
-Enable future integration with carbon credit programs and Web3 ecosystems.
-The product launch is currently targeted for October, subject to final approvals.
+# Product Overview — Sustainable Water Brand Community Platform
 
-2. Community Membership System
-The initial phase will focus on establishing a membership ecosystem where:
-Customers can register as community members.
-Members may invite new users and receive rewards or incentives.
-Loyalty and referral mechanisms can be implemented to encourage community growth.
-Purchase verification can be used to validate membership eligibility.
-The concept is inspired by community-driven membership programs while maintaining a sustainability-focused value proposition.
+> Single source of truth for the product. Working name: **TBD** (to be set during onboarding/branding). A community-driven membership platform for a sustainability-focused bottled/drinking water brand.
 
-3. Sustainability & Carbon Credit Concept
-The long-term vision of incorporating sustainability metrics into the platform, including:
-Tracking individual water consumption data.
-Measuring and validating environmental impact.
-Calculating carbon-saving contributions.
-Converting validated sustainability data into digital rewards or tokenized assets in future phases.
-Potential integration with health-related applications and insurance ecosystems was also discussed as part of future expansion opportunities.
+## What it is
 
-4. Target Market
-The primary target audience includes:
-Urban professionals in Indonesia.
-Consumers with active and health-conscious lifestyles.
-Digital-native users already familiar with subscription and digital platforms.
-Individuals interested in sustainability and environmental initiatives.
+A community-driven digital platform (web + mobile) that turns a sustainable water brand's
+customers into a loyal, self-growing community. Customers register as members, verify their
+purchases, invite friends, and earn rewards — building repeat purchase and word-of-mouth
+growth around a sustainability value proposition.
 
-5. Branding & Design
-Brand identity assets have been prepared.
-Logo and visual guidelines are available.
-Brand colors primarily utilize blue tones aligned with sustainability and water-related themes.
+## The core insight (strategic scope)
+
+A consumer water brand lives or dies on **repeat purchase and word-of-mouth**, not on
+technology novelty. The compounding engine is the **membership + referral community core**:
+register → verify purchase → invite friends → earn rewards. Carbon-credit tracking and Web3
+tokenization are genuine differentiators, but they only have meaning once the community exists.
+So they are staged as later phases, kept visible on the blueprint, and not part of the launch MVP.
+
+## Launch MVP (Phase 1) — the build
+
+The first app focuses on the membership ecosystem:
+
+- **Member registration** — customers sign up and join the community.
+- **Purchase verification** — validate membership eligibility / reward actions from proof of purchase.
+- **Referral & invitations** — members invite new users; both sides earn rewards or incentives.
+- **Loyalty & rewards** — points/incentives for sustainable consumption and community growth.
+- **Customer engagement** — a member home that surfaces rewards, referrals, and community status.
+
+## Future phases (staged, not in launch MVP)
+
+- **Sustainability tracking** — track individual water consumption and environmental impact.
+- **Carbon-saving contributions** — measure and validate environmental impact; calculate carbon savings.
+- **Tokenized rewards / Web3** — convert validated sustainability data into digital rewards or tokenized assets.
+- **Ecosystem integrations** — potential tie-ins with health applications and insurance ecosystems.
+
+## Target market
+
+- Urban professionals in **Indonesia**.
+- Health-conscious, active-lifestyle consumers.
+- Digital-native users already comfortable with subscription and digital platforms.
+- People who care about sustainability and environmental initiatives.
+
+## Branding & design
+
+- Brand identity assets prepared; logo and visual guidelines available.
+- Primary palette: **blue tones**, aligned with water and sustainability themes.
+- Tone: clean, modern, optimistic, sustainability-forward.
+
+## Timeline
+
+- Product launch targeted for **October**, subject to final approvals.
+
+## Strategic principles
+
+- Launch on the community flywheel (membership + referral), not on Web3.
+- Keep the full sustainability/Web3 vision visible as staged goals so the brand story stays whole.
+- Verified, real actions (purchases, referrals) are the operations that matter — not signups or page views alone.
