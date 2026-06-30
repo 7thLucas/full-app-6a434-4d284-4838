@@ -17,15 +17,18 @@ register → verify purchase → invite friends → earn rewards. Carbon-credit 
 tokenization are genuine differentiators, but they only have meaning once the community exists.
 So they are staged as later phases, kept visible on the blueprint, and not part of the launch MVP.
 
-## Launch MVP (Phase 1) — the build
+## Launch MVP (Phase 1) — built
 
-The first app focuses on the membership ecosystem:
+The first app (mobile-first, blue water palette) is built and live in preview. It focuses on the membership ecosystem:
 
-- **Member registration** — customers sign up and join the community.
-- **Purchase verification** — validate membership eligibility / reward actions from proof of purchase.
-- **Referral & invitations** — members invite new users; both sides earn rewards or incentives.
-- **Loyalty & rewards** — points/incentives for sustainable consumption and community growth.
-- **Customer engagement** — a member home that surfaces rewards, referrals, and community status.
+- **Member registration & accounts** — customers sign up (with referral code support) and join the community; secure auth (login/logout, reset).
+- **Purchase verification** — upload a receipt / bottle photo to validate eligibility and earn points.
+- **Referral & invitations** — personal referral code + shareable invite link; two-sided rewards, idempotent, no self-referral.
+- **Loyalty economy** — points ledger (welcome, per-purchase, referral points) and configurable membership **tiers** with progress.
+- **Rewards catalog** — redeemable rewards gated by points balance.
+- **Engagement home** — a member hub surfacing points balance, tier progress, referrals, rewards, and recent activity.
+
+Owner-customizable content, the full loyalty economy (point values, rewards, tiers), and the blue palette flow through the configurables module — no hardcoding.
 
 ## Future phases (staged, not in launch MVP)
 
